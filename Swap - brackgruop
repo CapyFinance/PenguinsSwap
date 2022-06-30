@@ -3,14 +3,6 @@
     "background": [
         {
             "image": "https://github.com/CapyFinance/PenguinsSwap/blob/main/background.jpg",
-            "imageBlur": "0",
-            "overlayColor": "#000000",
-            "overlayOpacity": "15",
-            "swapInfoColor": "#223263",
-            "swapBoxColor": "#748193",
-            "swapBoxTextColor": "#EBF0FF",
-            "swapBtnColor": "#42566F",
-            "speTextColor": "#7095c3"
         },
     ]
 }
